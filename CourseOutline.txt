@@ -1,0 +1,88 @@
+VERY ROUGH COURSE OUTLINE
+
+
+1. The Notion of Programming
+	-The von Neumann machine, data + instructions
+	-Sorting cards
+	-...
+	
+2. Hello World
+	-Code
+		-Typing in HelloWorld.java
+		-Extending the idea of a language (Extention: Regular, CFG, Turing-complete languages)
+	-Java workflow
+		-Editing Code
+		-Compiling to bytecode
+		-Running in the virtual machine
+		-*.class, *.exe, *.jar
+		
+3. Hello World 2
+	-Operators 1
+		-Performing arithmetic in Java
+	-Variables 1
+		-int, String, double
+	-Classes
+		-Structure of a Java application
+		-The Object Oriented Idea (MOST PHILOSOPHICALLY DEMANDING TOPIC, COURSE MAKES OR BREAKS HERE)
+	-Methods 1
+		-Abstracting a task
+		-The input-output idea
+		-public static void main(String[] args)
+		-"Resolves to"
+
+4. Developer Tools (OPEN FOR DEBATE OBV.  I'M DOING THESE, FORK IF YOU DISAGREE)
+	-Eclipse
+		-Installation
+		-Using Eclipse for "HelloWorld"-level development
+		-Opening a larger, pre-fab project
+	-Git
+		-Command-line git 
+			-Create a simple repository
+			-Make a well-commented commit
+		-GitHub
+			-Sign up for GitHub
+			-Install the client
+			-Publish your repo
+			-browse the class repo
+			-clone the repo for the next project
+		
+5. Algorithms 1 (USE THE SAME SIMPLE CLASS STRUCTURE EACH TIME)
+	-Primitive Data Types
+	-Variables 2 
+	-Looping and branching 1
+	
+6. Using the API
+	-String methods
+	-Math methods
+	-Scanner methods
+	-Random methods
+	
+7. Testing and debugging (UNIT FROM SCRATCH, NEED RESEARCH HERE)
+	-
+	
+8. Object Oriented Design 1
+	-
+	
+9. Data Structures
+	-Arrays
+	-2d Arrays
+	-List<> and conforming classes
+	-(others optional)
+	-Algorithms 2
+		-Search and Replace
+		-Enhanced For loops
+		-Sorting
+	
+10. Object Oriented Design 2
+	-Inheritance
+	-Abstract classes
+	-UML
+	-Interfaces
+	
+11. Recursion
+	-Simple examples and the Three Laws
+	-Merge sort
+	-Fractal generation
+
+	
+	
