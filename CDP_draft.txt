@@ -3,4 +3,6 @@ Course Design Principles (BRAINSTORM)
 - Bounce back and forth between "in the large" and "in the small".  Follow
   method units with class units that use the newly acquired skills.
   
+- Integrate AP Multiple Choice questions at regular intervals
+
 - 
